@@ -1,3 +1,4 @@
+#🐄 Dairy Management Database System
 
 This project is developed as part of the **Database Management Systems (DBMS)** course under the **B.Tech in Artificial Intelligence and Data Science** program at **NMIMS Indore**. The system is designed to manage various aspects of dairy operations, including milk collection, farmer records, payments, storage, deliveries, and analytics.
 
