@@ -79,7 +79,7 @@ The system includes the following main entities:
 
 The ER Diagram outlines the relationships between various entities, ensuring referential integrity and logical schema design.
 
-*(Include a screenshot or link to your ER diagram here if available)*
+![Uploading image.png…]()
 
 ---
 
@@ -128,8 +128,8 @@ This project is developed solely for academic purposes under the DBMS course. Un
 
 ### 📌 Submitted to:
 
-**Dr. Dhrumil Shah**  
-Faculty – Department of Artificial Intelligence and Data Science  
+**Dr. Shruti Sharma**  
+Faculty – School Of Technology Management and Engineering  
 NMIMS, Indore Campus
 
 ---
