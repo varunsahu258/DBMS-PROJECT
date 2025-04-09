@@ -1,4 +1,3 @@
-<img width="554" alt="image" src="https://github.com/user-attachments/assets/e27ca419-ea98-4c0a-aba3-79b12c607e59" /># 🐄 Dairy Management Database System
 
 This project is developed as part of the **Database Management Systems (DBMS)** course under the **B.Tech in Artificial Intelligence and Data Science** program at **NMIMS Indore**. The system is designed to manage various aspects of dairy operations, including milk collection, farmer records, payments, storage, deliveries, and analytics.
 
@@ -79,8 +78,7 @@ The system includes the following main entities:
 
 The ER Diagram outlines the relationships between various entities, ensuring referential integrity and logical schema design.
 
-<img width="554" alt="image" src="https://github.com/user-attachments/assets/7eacb082-1420-4358-a85c-02e1c90e7f43" />
-
+<img width="554" alt="image" src="https://github.com/user-attachments/assets/e27ca419-ea98-4c0a-aba3-79b12c607e59" />
 ---
 
 ## 🧹 Normalization
